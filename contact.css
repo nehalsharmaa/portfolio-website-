@@ -1,0 +1,20 @@
+.contact .contact-info {
+    /* line-height: 3vh; */
+    margin-top: 10vh;
+}
+
+.contact {
+    display: block;
+    margin: auto;
+    width: 70vw;
+    height: auto;
+
+}
+
+.contact p{
+    margin-top: 25vh;
+    /* line-height: 2vh; */
+}
+.footer{
+    margin-top: 15vh;
+}
